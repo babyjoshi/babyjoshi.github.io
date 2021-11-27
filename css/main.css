@@ -935,7 +935,8 @@ display:block;
 
 
  .glow {
-	color: #e60073;
+    color: #e60073!important;
+    text-shadow: 5px 4px 6px #fff !important;
 	text-align: center;
 	/* -webkit-animation: glow 1s ease-in-out infinite alternate;
 	-moz-animation: glow 1s ease-in-out infinite alternate;
